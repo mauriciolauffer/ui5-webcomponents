@@ -32943,21 +32943,6 @@
     },
     {
       "kind": "javascript-module",
-      "path": "dist/delegate/DragAndDropHandler.js",
-      "declarations": [],
-      "exports": [
-        {
-          "kind": "js",
-          "name": "default",
-          "declaration": {
-            "name": "DragAndDropHandler",
-            "module": "dist/delegate/DragAndDropHandler.js"
-          }
-        }
-      ]
-    },
-    {
-      "kind": "javascript-module",
       "path": "dist/bundle-assets/IconPensilJSXTemplate.js",
       "declarations": [],
       "exports": [
@@ -32967,6 +32952,21 @@
           "declaration": {
             "name": "IconPensilJSXTemplate",
             "module": "dist/bundle-assets/IconPensilJSXTemplate.js"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "dist/delegate/DragAndDropHandler.js",
+      "declarations": [],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "default",
+          "declaration": {
+            "name": "DragAndDropHandler",
+            "module": "dist/delegate/DragAndDropHandler.js"
           }
         }
       ]
