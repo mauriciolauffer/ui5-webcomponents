@@ -1783,21 +1783,6 @@
     },
     {
       "kind": "javascript-module",
-      "path": "dist/react18/createReactComponent.js",
-      "declarations": [],
-      "exports": [
-        {
-          "kind": "js",
-          "name": "default",
-          "declaration": {
-            "name": "createReactComponent",
-            "module": "dist/react18/createReactComponent.js"
-          }
-        }
-      ]
-    },
-    {
-      "kind": "javascript-module",
       "path": "dist/renderer/JsxRenderer.js",
       "declarations": [],
       "exports": [
@@ -1837,6 +1822,21 @@
           "declaration": {
             "name": "executeTemplate",
             "module": "dist/renderer/executeTemplate.js"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "dist/react18/createReactComponent.js",
+      "declarations": [],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "default",
+          "declaration": {
+            "name": "createReactComponent",
+            "module": "dist/react18/createReactComponent.js"
           }
         }
       ]
